@@ -1,5 +1,5 @@
 {
-    "domain": "joriskt",
+    "domain": "ha-keypad",
     "name": "HA Virtual Keypad",
     "version": "0.0.1",
     "codeowners": ["@joriskt"],
