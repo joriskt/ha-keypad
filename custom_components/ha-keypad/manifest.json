@@ -1,6 +1,7 @@
 {
     "domain": "joriskt",
     "name": "HA Virtual Keypad",
+    "version": "0.0.1",
     "codeowners": ["@joriskt"],
     "dependencies": [],
     "documentation": "https://github.com/joriskt/ha-keypad/blob/master/README.md",
