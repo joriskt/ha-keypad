@@ -1,12 +1,12 @@
 {
     "domain": "ha-keypad",
     "name": "HA Virtual Keypad",
-    "version": "0.0.1",
     "codeowners": ["@joriskt"],
     "dependencies": [],
     "documentation": "https://github.com/joriskt/ha-keypad/blob/master/README.md",
     "integration_type": "helper",
+    "iot_class": "calculated",
     "issue_tracker": "https://github.com/joriskt/ha-keypad/issues/",
     "loggers": ["ha-keypad"],
-    "iot_class": "calculated"
+    "version": "0.0.1"
 }
